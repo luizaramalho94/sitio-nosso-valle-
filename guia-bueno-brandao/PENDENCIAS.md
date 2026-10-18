@@ -1,54 +1,70 @@
-# Guia Bueno Brandão – Nosso Valle · Pendências
+# Guia Bueno Brandão – Nosso Valle · Pendências (versão 2)
 
-## 1. Fotos que faltam (9 espaços "FOTO AQUI", um no topo de cada página de atrativo)
+O guia tem 27 páginas e 45 lugares. Cada lugar tem o seu próprio espaço "FOTO AQUI".
 
-| Página | Espaço | Sugestão |
+## 1. Fotos: 45 espaços para preencher
+
+| Páginas | Seção | Lugares (um espaço de foto para cada) |
 |---|---|---|
-| 4 | Cachoeiras com infraestrutura | uma das cachoeiras da lista |
-| 6 | Cachoeiras sem infraestrutura | uma das cachoeiras da lista |
-| 9 | Casarão Villa Ramalho | fachada do casarão |
-| 10 | Centro de Atendimento ao Turista | prédio do CAT |
-| 12 | Mirante da Serrinha | vista do mirante |
-| 13 | Mirante do Cristo | vista do mirante |
-| 15 | Turismo de Aventura | tirolesa ou passeio |
-| 16 | Turismo de Experiência | campo de lavanda |
-| 17 | Turismo Religioso | Igreja Matriz |
+| 4–7 | Cachoeiras com infraestrutura (11) | Félix, Luís, Parque Natural Terra das Cachoeiras, Machado I, Machado II, Panontin, Cafundó, Santa Rita, Mergulho, Sonhos, Limoeiro I |
+| 8–12 | Cachoeiras sem infraestrutura (17) | Ponte Alta, Boa Vista dos Vicentes, Cascavel II, Sertãozinho I, Cascavel I, Davi I, Sertãozinho II, Limoeiro II, Limoeiro III, Bentos, Sertãozinho III, Davi II, Boa Vista dos Crispins, Usina, Bambuzal, Bromélia, Encanto |
+| 14 | Casarão Villa Ramalho | foto grande |
+| 15 | Centro de Atendimento ao Turista | foto grande |
+| 17 | Mirante da Serrinha | foto grande |
+| 18 | Mirante do Cristo | foto grande |
+| 20–22 | Turismo de Aventura (9) | Tirolesa, Passeio a Cavalo, Pedalinhos, Stand up Paddle, Boia-cross, Caiaques e Ducks, Mini Fazenda (todos no Terra dos Sonhos), Parque dos Sonhos, Off-Road Turismo |
+| 23 | Turismo de Experiência (2) | Lavanda da Colina, Serra das Antas |
+| 24 | Turismo Religioso (2) | Igreja Matriz do Senhor Bom Jesus, Igreja São Benedito e São Sebastião |
 
-As páginas 5 e 7 são continuações e não têm espaço de foto.
+**Como trocar no Canva:** arraste a foto para cima do retângulo "FOTO AQUI" e ajuste o enquadramento. Se a foto vier do site buenobrandao.com.br, coloque o crédito "Foto: buenobrandao.com.br".
 
-Motivo: o site buenobrandao.com.br está bloqueado na rede deste ambiente, então não consegui baixar as fotos dele nem conferir se o site permite o uso. Se usar fotos do site, coloque o crédito "Foto: buenobrandao.com.br".
+## 2. Cachoeiras sem ficha detalhada no site
 
-## 2. Informação que não consegui obter
+Estas 7 aparecem na lista oficial de cachoeiras, mas o site não traz altura, acesso nem horário:
 
-- **Distância a partir do Nosso Valle:** não incluí. Não tenho como calcular rotas daqui. O guia mostra a distância **a partir do centro**, quando o site informa, e a página do Nosso Valle diz que o sítio fica a 3 km do centro. Os botões "Ver no Google Maps" abrem a rota a partir de onde o hóspede estiver.
-- **Off-Road Turismo:** o site não traz endereço nem contato. O cartão ficou sem botão de mapa.
-- **Lavanda da Colina:** o site não traz horário nem valores.
-- **Mirantes, Casarão e CAT:** o site não traz valores de entrada. Não escrevi "gratuito" porque não está confirmado.
-- **Igrejas:** o endereço da Igreja São Benedito e São Sebastião não foi encontrado.
+- Sertãozinho III
+- Davi II (a página dela no site mostra conteúdo de outra cachoeira)
+- Boa Vista dos Crispins
+- Usina
+- Bambuzal
+- Bromélia
+- Encanto
 
-## 3. Itens para conferir (dados do site que parecem inconsistentes)
+No guia, elas aparecem com a orientação de procurar o Centro de Atendimento ao Turista, no (35) 3463-2384. Se você conhecer alguma delas, me passe as informações que eu completo.
 
-- **Casarão Villa Ramalho e CAT** aparecem com o mesmo endereço (Rua Coronel Ramalho, 127) e os mesmos telefones, mas com horários diferentes. Pode ser o mesmo prédio ou um erro no site.
-- **CAT, (35) 9725-3663:** o número tem só 8 dígitos depois do DDD. Celular costuma ter 9, então talvez falte um "9". Ficou como texto, sem link de WhatsApp.
-- **Cachoeira do Machado I:** uma página do site diz queda de 10 m e outra diz 18 m, por isso não citei a altura. O preço também diverge (R$ 15 na página nova e R$ 7 na antiga); usei R$ 15.
-- **Cachoeira da Santa Rita:** R$ 10 na página nova e R$ 8 na antiga; usei R$ 10.
-- **Cachoeiras dos Bentos e Boa Vista dos Vicentes:** vieram de páginas antigas do site. Confirme se ainda estão na lista "sem infraestrutura".
-- **Serra das Antas (queijos):** o texto foi tirado do seu guia de Boas-Vindas. Não confirmei se o site coloca esse lugar em "Turismo de Experiência".
-- Tudo o que veio do site foi lido por busca indexada (o site em si estava bloqueado). Vale uma conferência rápida de horários e preços.
+## 3. Informação que não consegui obter
 
-## 4. Links
+- **Distância a partir do Nosso Valle:** não consigo calcular rotas daqui. O guia mostra a distância **a partir do centro**, quando o site informa. O Nosso Valle fica a 3 km do centro, e o botão "Ver no Google Maps" abre a rota de onde o hóspede estiver.
+- **Valores que o site não informa:**
+  - entrada: Panontin, Sonhos, Limoeiro I e todas as cachoeiras sem infraestrutura (exceto Cascavel II e Davi I, que são gratuitas), além dos mirantes, do Casarão e do CAT;
+  - atividades do Terra dos Sonhos e do Parque dos Sonhos;
+  - Lavanda da Colina.
+- **Horários que o site não informa:** Panontin, Limoeiro I, cachoeiras sem infraestrutura, atividades do Terra dos Sonhos, Lavanda da Colina e Serra das Antas.
+- **Off-Road Turismo:** o site não traz endereço, então o cartão ficou sem botão de mapa (tem só o Instagram @off.road_turismo).
+- **Igreja São Benedito e São Sebastião:** endereço não encontrado.
 
-- **Internos:** os 57 links foram testados e todos levam à página certa (índice → tópicos, aberturas → tópicos e "Voltar ao índice"/botão laranja → índice).
-- **Externos:** 35 links. Não consegui abri-los daqui porque a rede também bloqueia Google, Instagram e WhatsApp. Conferi o formato de cada um. Abra alguns no celular antes de enviar aos hóspedes.
-  - Os links curtos do Maps (maps.app.goo.gl) vieram do seu guia de Boas-Vindas: Félix, Luís, Machado I, Serrinha, Terra dos Sonhos, Parque dos Sonhos e Serra das Antas.
-  - Os demais usam busca do Google Maps pelo nome do lugar: Santa Rita, Mergulho, cachoeiras sem infraestrutura, Casarão, CAT, Cristo, Lavanda, igrejas e o endereço do Nosso Valle. Confira se o pino cai no lugar certo. Se tiver os links curtos, eu substituo.
-- **Seu guia de Boas-Vindas:** o botão de e-mail aponta para `nossovalle@gmail.com`, mas o texto mostra `nossovallebb@gmail.com`. No novo guia usei `nossovallebb@gmail.com`.
+## 4. Itens para conferir (o site se contradiz)
 
-## 5. Fontes
+- **Cachoeira do Limoeiro I:** a descrição fala em bar, estacionamento e banheiros, mas o endereço da página está na categoria "sem infraestrutura". Coloquei em "com infraestrutura".
+- **Cachoeira do Machado I:** uma página diz queda de 10 m e outra 18 m, por isso não citei a altura. O preço também diverge (R$ 15 / R$ 7); usei R$ 15.
+- **Cachoeira do Machado II:** R$ 10 numa página e R$ 7 em outra, por isso não citei o preço.
+- **Cachoeira da Santa Rita:** R$ 10 na página nova e R$ 8 na antiga; usei R$ 10. A queda de 18 m e o lago vêm da página antiga.
+- **Cachoeira dos Félix:** "vestiários" e "redário" aparecem em só uma das consultas.
+- **Casarão Villa Ramalho e CAT:** o site dá aos dois o mesmo endereço (Rua Coronel Ramalho, 127) e os mesmos telefones, mas horários diferentes.
+- **CAT, (35) 9725-3663:** o número tem só 8 dígitos depois do DDD, então talvez falte um "9". Ficou sem link de WhatsApp.
+- **Hotel Fazenda Parque dos Sonhos e Serra das Antas:** não estão na categoria de atrativos do site. O Parque dos Sonhos aparece na página de hospedagem, e a Serra das Antas na de produtos artesanais e no seu guia de Boas-Vindas. Mantive os dois porque são passeios conhecidos dos hóspedes.
+- Todo o conteúdo do site foi lido por busca, porque o site em si está bloqueado na rede deste ambiente. Vale uma conferência rápida de preços e horários.
 
-As fontes da referência (Calmius e IBM Plex Sans Thai) não estão disponíveis para mim. Usei:
-- **Marcellus** nos títulos, a serifa mais próxima da Calmius;
-- **IBM Plex Sans** nos textos, a mesma família da Plex Sans Thai;
-- **Allura** no script das aberturas.
+## 5. Links
 
-No Canva, dá para trocar os títulos para Calmius em 1 clique por página.
+- **Internos:** os 71 links foram testados e todos levam à página certa.
+- **Externos:** 56 links. Não consegui abri-los daqui porque a rede também bloqueia Google, Instagram e WhatsApp. Conferi o formato de cada um; abra alguns no celular antes de enviar aos hóspedes.
+- **Links curtos do Maps** (vieram do seu guia de Boas-Vindas): Félix, Luís, Machado I, Terra das Cachoeiras, Serrinha, Terra dos Sonhos (usado nas 7 atividades de lá), Parque dos Sonhos/Cachoeira dos Sonhos e Serra das Antas.
+- **Demais links do Maps:** usam busca pelo nome do lugar. Confira se o pino cai no lugar certo, principalmente nas cachoeiras pequenas. Se tiver os links curtos, eu substituo.
+- **Seu guia de Boas-Vindas:** o botão de e-mail aponta para `nossovalle@gmail.com`, mas o texto mostra `nossovallebb@gmail.com`. Aqui usei `nossovallebb@gmail.com`.
+
+## 6. Fontes
+
+- **Títulos:** Marcellus, a mais próxima da Calmius. No Canva, você pode trocar para Calmius.
+- **Textos:** IBM Plex Sans, da mesma família da IBM Plex Sans Thai.
+- **Script das aberturas:** Allura.
