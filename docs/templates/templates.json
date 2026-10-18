@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "categories": ["Natureza", "Hospedagem", "Glamping", "Pôr do sol", "Promoção", "Depoimento", "Fim de semana"],
+  "templates": [
+    {
+      "id": "bem-vindo",
+      "name": "Bem-vindo ao Valle",
+      "category": "Hospedagem",
+      "description": "Abertura com o nome do sítio e cenas tranquilas da serra.",
+      "music": "amanhecer",
+      "filter": "serra",
+      "art": "dawn",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 3.3, "transition": "fade", "effect": "push" },
+        { "dur": 2.0, "transition": "fade" },
+        { "dur": 2.0, "transition": "fade" },
+        { "dur": 2.0, "transition": "zoom" },
+        { "dur": 2.0, "transition": "fade" },
+        { "dur": 3.3, "transition": "blur", "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Bem-vindo ao", "style": "manuscrita", "anim": "subir", "y": 0.42, "size": 0.9, "color": "#f4ede0" },
+        { "scene": 0, "text": "Sítio Nosso Valle", "style": "elegante", "anim": "subir", "y": 0.5, "size": 1.05, "color": "#ffffff", "delay": 0.4 },
+        { "scene": 5, "text": "Serra da Mantiqueira", "style": "suave", "anim": "aparecer", "y": 0.47, "size": 0.9, "color": "#ffffff" },
+        { "scene": 5, "text": "Bueno Brandão · MG", "style": "manuscrita", "anim": "subir", "y": 0.54, "size": 0.85, "color": "#e2c27a", "delay": 0.4 }
+      ]
+    },
+    {
+      "id": "cafe-da-manha",
+      "name": "Café da manhã na serra",
+      "category": "Hospedagem",
+      "description": "Mesa posta, cheirinho de café e luz da manhã.",
+      "music": "cafe",
+      "filter": "dourada",
+      "art": "interior",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 2.4, "transition": "fade", "effect": "push" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "fade" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 3.0, "transition": "fade", "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Bom dia, serra", "style": "manuscrita", "anim": "subir", "y": 0.2, "size": 1.1, "color": "#ffffff" },
+        { "scene": 2, "text": "feito com carinho", "style": "suave", "anim": "aparecer", "y": 0.82, "size": 0.8, "color": "#ffffff" },
+        { "scene": 4, "text": "pão quentinho · café coado", "style": "classica", "anim": "deslizar", "y": 0.82, "size": 0.7, "color": "#2f4a36", "bg": true },
+        { "scene": 6, "text": "Café da manhã no Nosso Valle", "style": "elegante", "anim": "subir", "y": 0.5, "size": 0.9, "color": "#ffffff" }
+      ]
+    },
+    {
+      "id": "por-do-sol",
+      "name": "Pôr do sol",
+      "category": "Pôr do sol",
+      "description": "Câmera lenta e transições suaves para o fim de tarde dourado.",
+      "music": "por-do-sol",
+      "filter": "dourada",
+      "art": "sunset",
+      "beatSync": false,
+      "scenes": [
+        { "dur": 3.5, "transition": "fade", "speed": 0.5, "effect": "push" },
+        { "dur": 3.0, "transition": "blur", "speed": 0.5 },
+        { "dur": 3.0, "transition": "fade", "speed": 0.5 },
+        { "dur": 3.0, "transition": "blur", "speed": 0.5 },
+        { "dur": 4.0, "transition": "fade", "speed": 0.5, "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Aqui o dia termina assim", "style": "elegante", "anim": "aparecer", "y": 0.22, "size": 0.85, "color": "#ffffff" },
+        { "scene": 4, "text": "Sítio Nosso Valle", "style": "suave", "anim": "subir", "y": 0.8, "size": 0.85, "color": "#f4ede0" }
+      ]
+    },
+    {
+      "id": "tour-da-casa",
+      "name": "Tour da casa",
+      "category": "Hospedagem",
+      "description": "Um ambiente por clipe, com o nome de cada cômodo.",
+      "music": "cafe",
+      "filter": "creme",
+      "art": "interior",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 2.4, "transition": "fade", "effect": "push" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 1.8, "transition": "slide" },
+        { "dur": 2.4, "transition": "zoom", "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Vem conhecer a casa", "style": "manuscrita", "anim": "subir", "y": 0.18, "size": 1.0, "color": "#ffffff" },
+        { "scene": 1, "text": "Sala", "style": "moderna", "anim": "deslizar", "y": 0.86, "align": "left", "size": 0.9, "color": "#2f4a36", "bg": true },
+        { "scene": 2, "text": "Cozinha", "style": "moderna", "anim": "deslizar", "y": 0.86, "align": "left", "size": 0.9, "color": "#2f4a36", "bg": true },
+        { "scene": 3, "text": "Quarto", "style": "moderna", "anim": "deslizar", "y": 0.86, "align": "left", "size": 0.9, "color": "#2f4a36", "bg": true },
+        { "scene": 4, "text": "Banheiro", "style": "moderna", "anim": "deslizar", "y": 0.86, "align": "left", "size": 0.9, "color": "#2f4a36", "bg": true },
+        { "scene": 5, "text": "Varanda", "style": "moderna", "anim": "deslizar", "y": 0.86, "align": "left", "size": 0.9, "color": "#2f4a36", "bg": true },
+        { "scene": 6, "text": "Área externa", "style": "moderna", "anim": "deslizar", "y": 0.86, "align": "left", "size": 0.9, "color": "#2f4a36", "bg": true },
+        { "scene": 7, "text": "E essa vista…", "style": "elegante", "anim": "subir", "y": 0.5, "size": 1.0, "color": "#ffffff" }
+      ]
+    },
+    {
+      "id": "glamping-estrelas",
+      "name": "Glamping sob as estrelas",
+      "category": "Glamping",
+      "description": "Clima noturno, desfoques suaves e céu estrelado.",
+      "music": "noite",
+      "filter": "noite",
+      "art": "night",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 3.4, "transition": "fade", "effect": "push" },
+        { "dur": 2.6, "transition": "blur" },
+        { "dur": 2.6, "transition": "fade" },
+        { "dur": 2.6, "transition": "blur", "speed": 0.5 },
+        { "dur": 3.4, "transition": "fade", "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Durma sob as estrelas", "style": "elegante", "anim": "aparecer", "y": 0.3, "size": 0.95, "color": "#f4ede0" },
+        { "scene": 2, "text": "glamping na serra", "style": "suave", "anim": "aparecer", "y": 0.78, "size": 0.85, "color": "#ffffff" },
+        { "scene": 4, "text": "Sítio Nosso Valle", "style": "manuscrita", "anim": "subir", "y": 0.5, "size": 1.1, "color": "#e2c27a" }
+      ]
+    },
+    {
+      "id": "fim-de-semana-perfeito",
+      "name": "Fim de semana perfeito",
+      "category": "Fim de semana",
+      "description": "Sexta, sábado e domingo em cortes animados com flash.",
+      "music": "fim-de-semana",
+      "filter": "serra",
+      "art": "day",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 2.1, "transition": "fade" },
+        { "dur": 1.6, "transition": "flash" },
+        { "dur": 1.6, "transition": "cut" },
+        { "dur": 2.1, "transition": "flash" },
+        { "dur": 1.6, "transition": "cut" },
+        { "dur": 2.1, "transition": "flash" },
+        { "dur": 1.6, "transition": "cut" },
+        { "dur": 2.6, "transition": "zoom", "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Um fim de semana perfeito", "style": "manuscrita", "anim": "subir", "y": 0.2, "size": 0.95, "color": "#ffffff" },
+        { "scene": 1, "span": 2, "text": "Sexta", "style": "impacto", "anim": "zoom", "y": 0.82, "size": 1.0, "color": "#ffffff" },
+        { "scene": 3, "span": 2, "text": "Sábado", "style": "impacto", "anim": "zoom", "y": 0.82, "size": 1.0, "color": "#ffffff" },
+        { "scene": 5, "span": 2, "text": "Domingo", "style": "impacto", "anim": "zoom", "y": 0.82, "size": 1.0, "color": "#ffffff" },
+        { "scene": 7, "text": "Te esperamos no Valle", "style": "elegante", "anim": "subir", "y": 0.5, "size": 0.95, "color": "#ffffff" }
+      ]
+    },
+    {
+      "id": "reserve-sua-data",
+      "name": "Reserve sua data",
+      "category": "Promoção",
+      "description": "Cenas rápidas e cartão final com chamada para reserva.",
+      "music": "fim-de-semana",
+      "filter": "dourada",
+      "art": "day",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 2.1, "transition": "fade", "effect": "push" },
+        { "dur": 2.1, "transition": "zoom" },
+        { "dur": 2.1, "transition": "slide" },
+        { "dur": 2.1, "transition": "zoom" },
+        { "dur": 2.1, "transition": "slide" },
+        { "dur": 4.1, "transition": "fade", "layout": "card", "bg": "#2f4a36" }
+      ],
+      "texts": [
+        { "scene": 0, "span": 2, "text": "Já pensou em acordar aqui?", "style": "elegante", "anim": "subir", "y": 0.2, "size": 0.85, "color": "#ffffff" },
+        { "scene": 3, "span": 2, "text": "Datas abertas", "style": "moderna", "anim": "deslizar", "y": 0.84, "size": 0.85, "color": "#2f4a36", "bg": true },
+        { "scene": 5, "text": "Reserve sua data", "style": "elegante", "anim": "subir", "y": 0.38, "size": 1.1, "color": "#f4ede0" },
+        { "scene": 5, "text": "Sítio Nosso Valle", "style": "suave", "anim": "aparecer", "y": 0.48, "size": 0.8, "color": "#e2c27a", "delay": 0.4 },
+        { "scene": 5, "text": "Chame no WhatsApp · link na bio", "style": "moderna", "anim": "subir", "y": 0.62, "size": 0.62, "color": "#2f4a36", "bg": true, "delay": 0.8 }
+      ]
+    },
+    {
+      "id": "antes-depois",
+      "name": "Antes e depois",
+      "category": "Natureza",
+      "description": "Uma cortina revela a transformação: a neblina que vira sol, a obra pronta.",
+      "music": "amanhecer",
+      "filter": "nenhum",
+      "art": "mist",
+      "beatSync": false,
+      "scenes": [
+        { "dur": 6.0, "transition": "fade", "layout": "beforeafter" },
+        { "dur": 3.0, "transition": "fade", "layout": "card", "bg": "#5b7a4f" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Antes", "style": "moderna", "anim": "aparecer", "y": 0.1, "align": "left", "size": 0.8, "color": "#2f4a36", "bg": true },
+        { "scene": 0, "text": "Depois", "style": "moderna", "anim": "aparecer", "y": 0.1, "align": "right", "size": 0.8, "color": "#2f4a36", "bg": true, "delay": 2.2 },
+        { "scene": 1, "text": "Venha ver de perto", "style": "elegante", "anim": "subir", "y": 0.45, "size": 1.0, "color": "#f4ede0" },
+        { "scene": 1, "text": "Sítio Nosso Valle", "style": "suave", "anim": "aparecer", "y": 0.55, "size": 0.8, "color": "#e2c27a", "delay": 0.4 }
+      ]
+    },
+    {
+      "id": "colagem-3",
+      "name": "Colagem 3 vídeos",
+      "category": "Natureza",
+      "description": "Tela dividida em três faixas que entram uma a uma.",
+      "music": "amanhecer",
+      "filter": "serra",
+      "art": "day",
+      "beatSync": false,
+      "scenes": [
+        { "dur": 7.0, "transition": "fade", "layout": "split3" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Três jeitos de viver a serra", "style": "moderna", "anim": "subir", "y": 0.5, "size": 0.7, "color": "#2f4a36", "bg": true, "delay": 1.2 }
+      ]
+    },
+    {
+      "id": "contagem-feriado",
+      "name": "Contagem regressiva para o feriado",
+      "category": "Promoção",
+      "description": "3, 2, 1… números grandes no ritmo e convite para o feriado.",
+      "music": "ritmo",
+      "filter": "dourada",
+      "art": "day",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 1.95, "transition": "fade", "effect": "punch" },
+        { "dur": 1.95, "transition": "flash", "effect": "punch" },
+        { "dur": 1.95, "transition": "flash", "effect": "punch" },
+        { "dur": 2.4, "transition": "flash", "effect": "push" },
+        { "dur": 3.4, "transition": "zoom", "layout": "card", "bg": "#8a5a3b" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "3", "style": "impacto", "anim": "zoom", "y": 0.5, "size": 3.2, "color": "#ffffff" },
+        { "scene": 1, "text": "2", "style": "impacto", "anim": "zoom", "y": 0.5, "size": 3.2, "color": "#ffffff" },
+        { "scene": 2, "text": "1", "style": "impacto", "anim": "zoom", "y": 0.5, "size": 3.2, "color": "#ffffff" },
+        { "scene": 3, "text": "O feriado está chegando!", "style": "manuscrita", "anim": "subir", "y": 0.25, "size": 1.0, "color": "#ffffff" },
+        { "scene": 4, "text": "Feriado no Valle", "style": "elegante", "anim": "subir", "y": 0.4, "size": 1.1, "color": "#f4ede0" },
+        { "scene": 4, "text": "últimas datas disponíveis", "style": "moderna", "anim": "aparecer", "y": 0.52, "size": 0.6, "color": "#2f4a36", "bg": true, "delay": 0.4 }
+      ]
+    },
+    {
+      "id": "depoimento",
+      "name": "Depoimento de hóspede",
+      "category": "Depoimento",
+      "description": "Foto emoldurada com a frase de quem já se hospedou.",
+      "music": "por-do-sol",
+      "filter": "creme",
+      "art": "dawn",
+      "beatSync": false,
+      "scenes": [
+        { "dur": 2.5, "transition": "fade", "effect": "push" },
+        { "dur": 2.5, "transition": "fade" },
+        { "dur": 6.0, "transition": "fade", "layout": "frame" },
+        { "dur": 3.0, "transition": "fade", "layout": "card", "bg": "#2f4a36" }
+      ],
+      "texts": [
+        { "scene": 0, "span": 2, "text": "O que dizem nossos hóspedes", "style": "elegante", "anim": "subir", "y": 0.2, "size": 0.85, "color": "#ffffff" },
+        { "scene": 2, "text": "“Lugar mágico, acordamos com o canto dos pássaros e a vista mais linda da serra.”", "style": "manuscrita", "anim": "digitar", "y": 0.82, "size": 0.72, "color": "#2f4a36", "delay": 0.6 },
+        { "scene": 2, "text": "Ana e Pedro · São Paulo", "style": "suave", "anim": "aparecer", "y": 0.93, "size": 0.6, "color": "#8a5a3b", "delay": 2.5 },
+        { "scene": 3, "text": "★★★★★", "style": "classica", "anim": "zoom", "y": 0.42, "size": 1.0, "color": "#e2c27a" },
+        { "scene": 3, "text": "Sítio Nosso Valle", "style": "elegante", "anim": "subir", "y": 0.52, "size": 0.9, "color": "#f4ede0", "delay": 0.3 }
+      ]
+    },
+    {
+      "id": "momentos-rapidos",
+      "name": "Momentos rápidos",
+      "category": "Fim de semana",
+      "description": "Cortes secos no ritmo da batida — energia pura.",
+      "music": "ritmo",
+      "filter": "serra",
+      "art": "day",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 0.97, "transition": "cut", "effect": "punch" },
+        { "dur": 0.97, "transition": "cut", "effect": "punch" },
+        { "dur": 0.97, "transition": "cut", "effect": "punch" },
+        { "dur": 0.97, "transition": "cut", "effect": "punch" },
+        { "dur": 0.48, "transition": "cut", "effect": "punch" },
+        { "dur": 0.48, "transition": "cut", "effect": "punch" },
+        { "dur": 0.97, "transition": "flash", "effect": "punch" },
+        { "dur": 0.97, "transition": "cut", "effect": "punch" },
+        { "dur": 0.97, "transition": "cut", "effect": "punch" },
+        { "dur": 0.48, "transition": "cut", "effect": "punch" },
+        { "dur": 0.48, "transition": "cut", "effect": "punch" },
+        { "dur": 2.9, "transition": "flash", "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "span": 4, "text": "Momentos no Valle", "style": "impacto", "anim": "zoom", "y": 0.5, "size": 1.0, "color": "#ffffff" },
+        { "scene": 11, "text": "@sitionossovalle", "style": "moderna", "anim": "digitar", "y": 0.5, "size": 0.7, "color": "#2f4a36", "bg": true }
+      ]
+    },
+    {
+      "id": "respira-serra",
+      "name": "Respira, é serra",
+      "category": "Natureza",
+      "description": "Ritmo lento, neblina e frases curtas para desacelerar.",
+      "music": "noite",
+      "filter": "neblina",
+      "art": "mist",
+      "beatSync": false,
+      "scenes": [
+        { "dur": 3.5, "transition": "fade", "speed": 0.5, "effect": "push" },
+        { "dur": 3.5, "transition": "fade", "speed": 0.5 },
+        { "dur": 3.5, "transition": "fade", "speed": 0.5 },
+        { "dur": 3.5, "transition": "fade", "speed": 0.5, "effect": "push" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "respira", "style": "suave", "anim": "aparecer", "y": 0.5, "size": 1.1, "color": "#ffffff" },
+        { "scene": 1, "text": "desacelera", "style": "suave", "anim": "aparecer", "y": 0.5, "size": 1.1, "color": "#ffffff" },
+        { "scene": 2, "text": "escuta o silêncio", "style": "suave", "anim": "aparecer", "y": 0.5, "size": 1.0, "color": "#ffffff" },
+        { "scene": 3, "text": "é serra.", "style": "elegante", "anim": "subir", "y": 0.5, "size": 1.2, "color": "#ffffff" }
+      ]
+    },
+    {
+      "id": "promocao-temporada",
+      "name": "Promoção de temporada",
+      "category": "Promoção",
+      "description": "Oferta em destaque com cenas animadas e cartão de chamada.",
+      "music": "fim-de-semana",
+      "filter": "terra",
+      "art": "sunset",
+      "beatSync": true,
+      "scenes": [
+        { "dur": 2.1, "transition": "fade", "effect": "punch" },
+        { "dur": 2.1, "transition": "flash", "effect": "punch" },
+        { "dur": 2.1, "transition": "flash", "effect": "punch" },
+        { "dur": 4.1, "transition": "zoom", "layout": "card", "bg": "#2f4a36" }
+      ],
+      "texts": [
+        { "scene": 0, "text": "Promoção de temporada", "style": "moderna", "anim": "deslizar", "y": 0.18, "size": 0.75, "color": "#2f4a36", "bg": true },
+        { "scene": 1, "span": 2, "text": "Diárias com desconto", "style": "impacto", "anim": "zoom", "y": 0.8, "size": 0.8, "color": "#ffffff" },
+        { "scene": 3, "text": "15% OFF", "style": "impacto", "anim": "zoom", "y": 0.38, "size": 1.6, "color": "#e2c27a" },
+        { "scene": 3, "text": "em diárias de segunda a quinta", "style": "classica", "anim": "aparecer", "y": 0.5, "size": 0.7, "color": "#f4ede0", "delay": 0.3 },
+        { "scene": 3, "text": "Reserve pelo link na bio", "style": "moderna", "anim": "subir", "y": 0.62, "size": 0.6, "color": "#2f4a36", "bg": true, "delay": 0.7 }
+      ]
+    }
+  ]
+}
